@@ -44,14 +44,14 @@ You can listen to the data either by playing it straight with aplay, which
 should pick up on the format automatically, or by piping to aplay and
 specifying the format, or by importing into audacity and playing from there.
 
-[Download]()
+[Download](https://raw.githubusercontent.com/G33kDude/DailyProgrammer/master/%5B2016-06-15%5D%20Challenge%20%23271%20%5BEasy%5D/out.pcm)
 
 #Bonus
 
 Wrap your output with valid WAV/WAVE file headers so it can be played directly
 using any standard audio player.
 
-[Download]()
+[Download](https://raw.githubusercontent.com/G33kDude/DailyProgrammer/master/%5B2016-06-15%5D%20Challenge%20%23271%20%5BEasy%5D/out.wav)
 
 #Notes
 
