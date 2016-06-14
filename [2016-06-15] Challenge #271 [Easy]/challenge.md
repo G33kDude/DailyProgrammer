@@ -11,7 +11,7 @@ depending on your operating system.
 
 For Linux systems with ALSA, you can use the `aplay` utility.
 
-    ./solution | aplay -U8 -r 8000
+    ./solution | aplay -f U8 -r 8000
 
 For other systems you can use Audacity,
 which features a raw data import utility.
