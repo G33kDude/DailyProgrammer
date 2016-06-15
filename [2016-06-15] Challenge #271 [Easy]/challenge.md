@@ -25,8 +25,8 @@ represented as the letters `A` through `G` (and `_` for rest).
 #Output Description
 
 You should output a string of bytes (unsigned 8 bit integers) either as a
-binary stream, or to a binary file. These bytes should represent the waveforms
-for the frequencies of the notes.
+binary stream, or to a binary file. These bytes should represent the
+waveforms^[1] for the frequencies^[2] of the notes.
 
 #Challenge Input
 
@@ -48,20 +48,20 @@ specifying the format, or by importing into audacity and playing from there.
 
 #Bonus
 
-Wrap your output with valid WAV/WAVE file headers so it can be played directly
+Wrap your output with valid WAV/WAVE file headers^[3] so it can be played directly
 using any standard audio player.
 
 [Download](https://raw.githubusercontent.com/G33kDude/DailyProgrammer/master/%5B2016-06-15%5D%20Challenge%20%23271%20%5BEasy%5D/out.wav)
 
 #Notes
 
-[Wikipedia](https://en.wikipedia.org/wiki/Waveform) has some formulas for
+1. [Wikipedia](https://en.wikipedia.org/wiki/Waveform) has some formulas for
 waveform generation. Note that `t` is measured in wavelengths.
 
-[This page](http://www.phy.mtu.edu/~suits/notefreqs.html) lists the exact
+2. [This page](http://www.phy.mtu.edu/~suits/notefreqs.html) lists the exact
 frequencies for every note.
 
-A good resource for WAV/WAVE file headers can be found
+3. A good resource for WAV/WAVE file headers can be found
 [here](http://www.topherlee.com/software/pcm-tut-wavformat.html).
 
 #Finally
