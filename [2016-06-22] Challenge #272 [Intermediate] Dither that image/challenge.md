@@ -1,4 +1,4 @@
-# Challenge Description
+# Description
 
 [Dithering](https://en.wikipedia.org/wiki/Dither) is the intentional use of
 noise to reduce the error of compression. If you start with a color image
@@ -21,19 +21,27 @@ Bayer Matrix.
 
 * [Bayer solids](http://i.imgur.com/mLKUyfn.png)
 
-## Input Description
+# Input
 
 Your program will take a color or grayscale image as its input. You may choose
 your input method appropriate to your language of choice. If you want to do it
 yourself, I suggest picking a [Netpbm](https://en.wikipedia.org/wiki/Netpbm)
 format, which is easy to read.
 
-## Output Description
+# Output
 
 Output a two-color (e.g. Black and White) dithered image in your choice of
-format. Again, you could output a Netpbm image which is easy to write.
+format. Again, I suggest picking a Netpbm format, which is easy to write.
 
-## Notes
+# Notes
 
 * [Here](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
   is a good resource for dithering algorithms.
+
+# Finally
+
+Have a good challenge idea?
+Consider submitting it to /r/dailyprogrammer_ideas
+
+Thanks to /u/skeeto for this [challenge idea]
+(https://www.reddit.com/r/dailyprogrammer_ideas/comments/4nt7rp)
