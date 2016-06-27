@@ -51,7 +51,7 @@ If the two units given are incompatible, give an error message as output.
 
 # Bonus Output
 
-    49.44c
+    100c
     158f
     No candidate for conversion
     42c
